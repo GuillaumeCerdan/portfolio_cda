@@ -1,0 +1,130 @@
+[
+    {
+        "name": "The Explorers (ORG)",
+        "url": "https://theexplorers.org/",
+        "description": "Plateforme web faisant l'inventaire des expéditions et voyages.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "theexorg.PNG"
+    },
+    {
+        "name": "The Explorers (FR)",
+        "url": "https://theexplorers.fr/landing",
+        "description": "Plateforme web faisant l'inventaire de la planète.",
+        "taches": "Participation au développement Front-end de la plateforme.",
+        "technologies": "AngularJS, Javascript (jQuery), Bootstrap",
+        "image": "theexcom.PNG"
+    },
+    {
+        "name": "Yokis (FR)",
+        "url": "https://www.yokis.fr/",
+        "description": "Fabriquant français de micromodules pour l'éclairage, le chauffage, la variation, les volets roulants etc...",
+        "taches": "Participation au développement Front-end de la plateforme.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "yokisfr.PNG"
+    }, 
+    {
+        "name": "Helipass",
+        "url": "https://www.helipass.com/fr/",
+        "description": "Plateforme de réservation de tours d'hélicoptères en ligne dans le monde entier.",
+        "taches": "Participation au développement Front-end et Back-end de la plateforme. Refactorisation d'un système de réservation (https://www.helipass.com/fr/transferts.html).",
+        "technologies": "Symfony, PHP, Javascript (jQuery), AngularJS",
+        "image": "hlpen.PNG"
+    }, 
+    {
+        "name": "Kraken Sports Nautiques",
+        "url": "https://www.kraken-sports-nautiques.com/",
+        "description": "École de kite surf proposant de multiples activités à Hyères (Var).",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "krakenfr.PNG"
+    },
+    {
+        "name": "Powercoaching",
+        "url": "https://www.kraken-sports-nautiques.com/",
+        "description": "Coach sportif personnel (Toulon) privé.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "powercoachingfr.PNG"
+    }, 
+    {
+        "name": "Lavco Laveries (fr)",
+        "url": "https://www.lavco-laveries.fr/",
+        "description": "Spécialiste des laveries proposant des solutions sur-mesure de location et achat.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "lavcofr.PNG"
+    },
+    {
+        "name": "Lavco Laveries (e-commerce)",
+        "url": "https://www.lavco-shop.fr/",
+        "description": "Spécialiste des laveries proposant des solutions sur-mesure de location et achat.",
+        "taches": "Participation au développement Front-end et Back-end de la plateforme.",
+        "technologies": "Thelia, PHP, Javascript (jQuery)",
+        "image": "lavcoshopfr.PNG"
+    },
+    {
+        "name": "Déco Charpente",
+        "url": "https://www.deco-charpente.fr/",
+        "description": "Constructeur et fabriquant de charpentes bois décoratives dans la France entière.",
+        "taches": "Participation au développement Front-end et Back-end de la plateforme.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "decocharpfr.PNG"
+    },
+    {
+        "name": "Déco Charpente (Devenir concessionnaire)",
+        "url": "https://devenir-concessionnaire.deco-charpente.fr/",
+        "description": "Constructeur et fabriquant de charpentes bois décoratives dans la France entière. Plateforme pour recruter des concessionnaires.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "devenirconcessiofr.PNG"
+    },
+    {
+        "name": "Des livres et du vin",
+        "url": "https://www.deslivresetduvin.com/",
+        "description": "Créateurs et vendeurs de box mensuelles contenant des livres et du vin.",
+        "taches": "Participation au développement Front-end et Back-end de la plateforme.",
+        "technologies": "Thelia, PHP, Javascript (jQuery)",
+        "image": "dldvfr.PNG"
+    },
+    {
+        "name": "Sweet lodges (Aix)",
+        "url": "https://www.sweetlodges.fr/",
+        "description": "Plateforme mettant en avant une villa d'architecte à louer.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "sweetlodgesfr.PNG"
+    },
+    {
+        "name": "La cave du vigneron",
+        "url": "https://www.la-cave-du-vigneron-toulon.fr/",
+        "description": "Cave à vin située à La Garde (Var).",
+        "taches": "Participation au développement Front-end et Back-end de la plateforme.",
+        "technologies": "Thelia, PHP, Javascript (jQuery)",
+        "image": "lacavefr.PNG"
+    },
+    {
+        "name": "Go'Apéro",
+        "url": "https://play.google.com/store/apps/details?id=com.getup.goapero",
+        "description": "Application mobile de créations d'apéros en ligne permettant d'inviter ses amis.",
+        "taches": "Participation au développement Back-end de l'application et développement Front-end.",
+        "technologies": "Kotlin, XML, Retrofit, AndroidX",
+        "image": ""
+    }, 
+    {
+        "name": "Go'Apéro (fr)",
+        "url": "http://www.goapero.fr/",
+        "description": "Plateforme mettant en avant l'application Android Go'Apéro.",
+        "taches": "Participation au développement Back-end et Front-end de l'application.",
+        "technologies": "Bootstrap, PHP, Javascript (jQuery)",
+        "image": "goaperofr.PNG"
+    },
+    {
+        "name": "Getup Agency",
+        "url": "https://www.getup.agency/",
+        "description": "Société de développement web et mobile basé à La Farlède.",
+        "taches": "Développement à 100% du site à partir de maquettes.",
+        "technologies": "Wordpress, PHP, Javascript (jQuery)",
+        "image": "getupfr.PNG"
+    }
+]
